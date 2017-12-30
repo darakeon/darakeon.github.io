@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "me.pagar.mposandroidexample",
+    "sha256_cert_fingerprints":
+    ["60:24:89:C7:51:17:74:D0:0E:01:28:EA:C0:0F:06:B6:D7:D7:2D:9D:46:A7:4B:41:63:EC:29:82:40:57:6B:CE"]
+  }
+}]
